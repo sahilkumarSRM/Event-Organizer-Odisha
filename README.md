@@ -1,1 +1,2 @@
-# Event-Organizer-Odisha
+# HackOdisha3.0-codingphilospher
+ 
